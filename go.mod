@@ -41,7 +41,7 @@ require (
 	golang.org/x/time v0.3.0
 	google.golang.org/grpc v1.54.0
 	gopkg.in/check.v1 v1.0.0-20201130134442-10cb98267c6c
-	gopkg.in/yaml.v2 v2.4.0
+	gopkg.in/yaml.v3 v3.0.1
 	oras.land/oras-go/v2 v2.0.2
 )
 
